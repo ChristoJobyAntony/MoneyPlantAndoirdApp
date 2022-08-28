@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Money Plant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Landing Activity   -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_greeting"> Login Form</string>
+    <string name="register_greeting">Registration Form</string>
+    <string name="register">Register</string>
+    <string name="login_prompt">Already have an account ?</string>
+    <string name="name">Name</string>
+    <string name="register_prompt">New here ?</string>
+    <string name="email_invalid">The given email is invalid !</string>
+    <string name="password_invalid">The given password doesn\'t meet the requirements</string>
+    <string name="aadhaar_invalid">Invalid Aadhaar id</string>
+    <string name="field_required">This field is required</string>
+    <string name="password_requirements">
+        The password should consist of :
+        \n1. 8 - 20 characters.
+        \n2. At least one digit, uppercase, and lower case character.
+    </string>
+    <string name="scan_aadhaar_card">Scan Aadhaar Card</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_connect">Connect</string>
+    <string name="title_report">Report</string>
+    <string name="title_locate">Locate</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_smart_bin_connect">SmartBinConnect</string>
+    <!-- Smart Bin Connect Activity   -->
+    <string name="disconnect_from_bin">Disconnect From Bin</string>
+
+    <!-- Smart Bin Info Fragment   -->
+    <string name="status_connection_to_bin">Connection to bin:\u0020</string>
+    <string name="status_bin_uid">Bin UID:\u0020</string>
+    <string name="status_bin_lid">Bin Lid Status:\u0020</string>
+    <string name="bin_lid_state">Bin lid position:\u0020</string>
+    <string name="waste_analysis_report">Waste Analysis:\u0020</string>
+    <string name="weight_state">Weight:\u0020</string>
+    <string name="estimate_credits">Estimate Credits:\u0020</string>
+
+    <!-- Scanner Fragment  -->
+    <string name="scanner_fragment_header">Connect to Smart Bin</string>
+    <string name="scanner_fragment_point_to_qr_code_prompt">Point to the QR Code to Connect</string>
+    <string name="weight">Weight :</string>
+    <string name="id">id :</string>
+    <string name="dollar_sign">$</string>
+    <string name="type_waste">Waste</string>
+    <string name="transactions">Transactions</string>
+
+</resources>
